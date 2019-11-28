@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Dice SDM</string>
+    <string name="txtJogar">Clique no botão abaixo para jogar o dado</string>
+    <string name="txtBtnJogar">Jogar</string>
+    <string name="txtNaoLancado">Ainda não foi lançado</string>
+    <string name="txtFaceSorteada">Face(s) sorteada(s):</string>
+    <string name="txtSelecioneNroDados">Selecione o número de dados</string>
+    <string name="txtEntreComFaces">Entre com o número de faces</string>
+    <string-array name="numero_dados">
+        <item>1</item>
+        <item>2</item>
+    </string-array>
+</resources>
